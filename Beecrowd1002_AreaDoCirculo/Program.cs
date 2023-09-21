@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace beecrowd {
+    class Program1002 {
+
+        static void Main(string[] args) {
+
+        }
+    }
+}
